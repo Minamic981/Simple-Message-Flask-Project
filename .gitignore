@@ -1,3 +1,6 @@
 venv/
 __pycache__/
 data.txt
+test.py
+templates/test.html
+media/*
